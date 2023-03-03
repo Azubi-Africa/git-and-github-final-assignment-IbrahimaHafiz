@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -First-project-with-Azubi |  - A html program that I work on| https://github.com/IbrahimaHafiz/First-project-with-Azubi.git   |
+| 2 |  -Second-project-with-Azubi|  -A python program that I work on|https://github.com/IbrahimaHafiz/Second-project-with-Azubi.git  |
+| 3 |  -Third-project-with-Azubi|  -A python program that I work on|https://github.com/IbrahimaHafiz/Third-project-with-Azubi.git     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
@@ -71,3 +71,5 @@ tests/test_readme_table.py::test_contains_table PASSED                          
 ================================================== 3 passed in 0.000s ==================================================
 
 ```
+## Author
+Thierno ibrahima Diallo
